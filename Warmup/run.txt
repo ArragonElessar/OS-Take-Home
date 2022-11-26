@@ -1,0 +1,2 @@
+gcc warmup.c
+./a.out 2 2
