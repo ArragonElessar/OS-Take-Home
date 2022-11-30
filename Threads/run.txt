@@ -1,0 +1,2 @@
+gcc multiply.c -lpthread
+./a.out 123 215
